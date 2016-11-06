@@ -38,4 +38,4 @@ after_build:
 
 artifacts:
   - path: 'build\ompl*.zip'
-  - path: '*.*'
+  - path: 'build\*'
